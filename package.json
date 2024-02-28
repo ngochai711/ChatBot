@@ -13,6 +13,9 @@
   ],
   "author": "Ngoc Hai",
   "license": "ISC",
+  "bin" : {
+    "execute" : "server.js"
+  } ,
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.4.4",

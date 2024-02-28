@@ -16,6 +16,7 @@
   "bin" : {
     "execute" : "server.js"
   } ,
+  "type": "module",
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.4.4",
